@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RobFluidCommerce
-- 👀 I’m interested in Ecommerce, Magento2, PWA Venia, Development, JiraSoftware, JiraServiceDesk
+- 👀 I’m interested in Ecommerce, Magento2, Hyva, Development
 - 🌱 I’m currently learning ALOT
 - 💞️ I’m looking to collaborate on Magento2 projects
 - 📫 How to reach me ... rob@fluidcommerce.co.uk
